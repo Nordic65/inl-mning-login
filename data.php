@@ -1,8 +1,8 @@
 <?php
-$correct_user = "test@test.com";
+$correct_user = "pirate123";
 $correct_password = 123;
 
-$user = $_POST['email'];
+$user = $_POST['user'];
 $password = $_POST['password'];
 if ($user == $correct_user && $password == $correct_password) {
     echo "welcome onboard the crew: $user";
