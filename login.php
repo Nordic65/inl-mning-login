@@ -11,7 +11,7 @@
 <body>
     <p>username = pirate123; password = 123</p>
     <form method="post" action="data.php">
-        <lable for="email">Enter thy username</lable>
+        <lable for="user">Enter thy username</lable>
         <br>
         <input type="text" name="user">
         <br>
