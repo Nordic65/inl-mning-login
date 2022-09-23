@@ -9,11 +9,11 @@
 </head>
 
 <body>
-    <p>email = test@test.com; password = 123</p>
+    <p>username = pirate123; password = 123</p>
     <form method="post" action="data.php">
-        <lable for="email">Enter thy electronic mail</lable>
+        <lable for="email">Enter thy username</lable>
         <br>
-        <input type="text" name="email">
+        <input type="text" name="user">
         <br>
         <lable for="password">Enter thy password for thy name</lable>
         <br>
